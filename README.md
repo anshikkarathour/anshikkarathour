@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anshika Rathour</h1>
-<h3 align="center">A Passionate Programmer from India</h3>
+<h3 align="center">A passionate developer from India, focused on building innovative solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 <br><br>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 Currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **Open-source projects.**
+- 👯 Open to collaborating on **open-source projects**
 
-- 👩🏻‍💻 As a geek, I like to follow **technological trends**
+- 👩🏻‍💻 Tech enthusiast, **always exploring the latest technological trends**
 
-- 📫 How to reach me **anshikarathour04@gmail.com**
+- 📫 Reach me at: **anshikarathour04@gmail.com**
 
-- ⚡ Let’s connect and collaborate on the next groundbreaking **innovation in tech!**
+- ⚡ Let’s connect and build the next groundbreaking **innovation in tech!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
